@@ -32,13 +32,8 @@ Photon Voice AppId and use zero Voice CCUs**.
 
 **Unity Package Manager (Git URL)**
 
-1. `Window > Package Manager > + > Add package from git URL...`
-2. Enter `https://github.com/TurboT22/FusionVR.git`
-
-**From a zip / local folder**
-
-1. Unzip the package.
-2. `Window > Package Manager > + > Add package from disk...` and pick `package.json`.
+1. Download the project as a zip
+2. drag the 
 
 ## Installing UniVoice
 
