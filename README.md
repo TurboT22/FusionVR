@@ -33,7 +33,8 @@ Photon Voice AppId and use zero Voice CCUs**.
 **Unity Package Manager (Git URL)**
 
 1. Download the project as a zip
-2. drag the 
+2. Drag the FusionVR.unitypackage into your unity project
+
 
 ## Installing UniVoice
 
