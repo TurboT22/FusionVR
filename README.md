@@ -33,7 +33,7 @@ Photon Voice AppId and use zero Voice CCUs**.
 **Unity Package Manager (Git URL)**
 
 1. `Window > Package Manager > + > Add package from git URL...`
-2. Enter `[https://github.com/YOUR_USERNAME/FusionVR.git](https://github.com/TurboT22/FusionVR.git)`
+2. Enter `https://github.com/TurboT22/FusionVR.git`
 
 **From a zip / local folder**
 
